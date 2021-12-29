@@ -16,7 +16,7 @@ that only requires `3-4 ICs`.
 
 ![Preview]
 
-*[Render] [Circuit]*
+〈 *[Render]* 〉 〈 *[Circuit]* 〉
 
 ---
 
