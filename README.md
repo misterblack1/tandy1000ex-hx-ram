@@ -1,12 +1,56 @@
-Tandy 1000 EX/HX RAM Expansion Board by Adrian Black. Cheap and simple, only requires 4 IC's (3 if you choose to bypass the 74LS245 with jumper links.)
 
-You can leave off the LED and R3 if you don't want the LED. This is tested in both the Tandy 1000 EX and HX machines. If you use 74HCT logic, you can substitute 10k resistors for R1 and R2.
+# Tandy 1000 EX / HX<br>RAM Expansion Board
 
-See the video about the board at:
-https://www.youtube.com/watch?v=l3RWOZX58A8
+*Designed by* ***Adrian Black***
 
-Uploaded files here are version 1.2 of the design with the fixes applied that I talked about on the video.
+A ***cheap*** & ***simple*** expansion <br>
+that only requires `3-4 ICs`.
 
-Notes:
-Created in KiCad v5.1.4-1
+*Tested for both* ***EX*** *&* ***HX*** *machines*
 
+---
+
+**⸢ [Video] ⸥ ⸢ [PCB] ⸥ ⸢ [Gerber Files] ⸥**
+
+---
+
+<p>
+    <img src = 'Resources/Preview.png' />
+    <img src = 'Resources/Schematic.png' />
+</p>
+
+---
+
+## Assembly
+
+##### 3 ICs
+
+If you bypass the `74LS245` with <br>
+a jumper you can save one **IC**.
+
+##### LED
+
+If you don't want the **LED**, you <br>
+can leave it off as well as `R3`.
+
+##### 74HCT
+
+If you choose to use the `74HCT`, you will <br>
+just have to replace `R1` & `R2` with `10kΩ`.
+
+---
+
+## Files
+
+Created with **[KiCAD]** `v5.1.4-1`
+
+The uploaded files are of `version 1.2`, with <br>
+the fixes, talked about in the **[Video]**, applied.
+
+<!----------------------------------------------------------------------------->
+
+[Video]: https://www.youtube.com/watch?v=l3RWOZX58A8
+[PCB]: Source
+[Gerber Files]: Gerbers
+
+[KiCAD]: https://www.kicad.org/
