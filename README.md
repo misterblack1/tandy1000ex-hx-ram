@@ -10,14 +10,13 @@ that only requires `3-4 ICs`.
 
 ---
 
-**⸢ [Video] ⸥ ⸢ [PCB] ⸥ ⸢ [Gerber Files] ⸥**
+**⸢ [Video] ⸥ ⸢ [PCB] ⸥ ⸢ [Schematic] ⸥ ⸢ [Gerber Files] ⸥**
 
 ---
 
-<p>
-    <img src = 'Resources/Preview.png' />
-    <img src = 'Resources/Schematic.png' />
-</p>
+![Preview]
+
+*[Render] [Circuit]*
 
 ---
 
@@ -52,5 +51,11 @@ the fixes, talked about in the **[Video]**, applied.
 [Video]: https://www.youtube.com/watch?v=l3RWOZX58A8
 [PCB]: Source
 [Gerber Files]: Gerbers
+
+[Schematic]: Resources/Schematic.pdf
+[Render]: Resources/Render.png
+[Circuit]: Resources/Circuit.png
+
+[Preview]: Resources/Preview.png
 
 [KiCAD]: https://www.kicad.org/
