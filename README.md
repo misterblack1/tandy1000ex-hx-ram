@@ -52,7 +52,7 @@ the fixes, talked about in the **[Video]**, applied.
 [PCB]: Source
 [Gerber Files]: Gerbers
 
-[Schematic]: Resources/Schematic.pdf
+[Schematic]: Resources/Schematics.pdf
 [Render]: Resources/Render.png
 [Circuit]: Resources/Circuit.png
 
