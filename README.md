@@ -19,14 +19,15 @@
 
 ---
 
-
-
+<br>
+<br>
+<br>
 
 ![Preview]
 
 <br>
 
-⸢ *[Render]*  ⸥                                                            ⸢ *[Circuit]*  ⸥
+⸢ *[Render]*  ⸥                                                                                    ⸢ *[Circuit]*  ⸥
 
 </div>
 
