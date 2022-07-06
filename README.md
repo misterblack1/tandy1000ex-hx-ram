@@ -27,7 +27,7 @@
 
 <br>
 
-⸢ *[Render]*  ⸥                                                                                    ⸢ *[Circuit]*  ⸥
+⸢ *[Render]*  ⸥                                                                                           ⸢ *[Circuit]*  ⸥
 
 </div>
 
@@ -42,7 +42,7 @@
 
 ### 3 ICs
 
-If you bypass the `74LS245` with <br>
+If you bypass the  `74LS245`  with <br>
 a jumper you can save one **IC**.
 
 <br>
@@ -50,23 +50,23 @@ a jumper you can save one **IC**.
 ### LED
 
 If you don't want the **LED**, you <br>
-can leave it off as well as `R3`.
+can leave it off as well as  `R3` .
 
 <br>
 
 ### 74HCT
 
-If you choose to use the `74HCT`, you will <br>
-just have to replace `R1` & `R2` with `10kΩ`.
+If you choose to use the  `74HCT` , you will <br>
+just have to replace  `R1`  &  `R2`  with  `10kΩ` .
 
 <br>
 <br>
 
 ## Files
 
-Created with **[KiCAD]** `v5.1.4-1`
+Created with **[KiCAD v5.1.4-1][KiCAD]**.
 
-The uploaded files are of `version 1.2`, with <br>
+The uploaded files are of  `version 1.2` , with <br>
 the fixes, talked about in the **[Video]**, applied.
 
 <br>
